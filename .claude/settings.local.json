@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:mitchellhillman.github.io)",
+      "WebSearch",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(gh api *)",
+      "Bash(git commit *)",
+      "Bash(git pull *)",
+      "Bash(git mv *)"
+    ]
+  }
+}
