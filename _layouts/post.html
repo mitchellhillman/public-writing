@@ -1,0 +1,15 @@
+---
+layout: default
+---
+    <article>
+      {% if page.image %}
+      <img class="hero-image" src="{{ page.image }}" alt="{{ page.title }}" />
+      {% endif %}
+      <h1>{{ page.title }}</h1>
+      <p class="byline">
+        By <a href="https://www.linkedin.com/in/mitchellhillman/">{{ page.byline }}</a>, {{ page.date | date: "%B %-d, %Y" }}
+      </p>
+      <p class="standfirst">{{ page.standfirst }}</p>
+      {{ content }}
+    </article>
+{% include footer.html %}
