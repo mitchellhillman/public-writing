@@ -33,6 +33,21 @@ p {
 
 /* Post */
 
+.back-link {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.8125rem;
+  margin: 0 0 2rem;
+}
+
+.back-link a {
+  color: #888;
+  text-decoration: none;
+}
+
+.back-link a:hover {
+  color: #0056b3;
+}
+
 .hero-image {
   width: 50%;
   margin: 0 auto 4rem;
