@@ -21,6 +21,7 @@
 ## Phrasing
 - Never use the negative-positive pair construction (e.g. "it is not X, it is Y"). State the positive directly.
 - Use punchy short sentences for emphasis extremely sparingly — once or twice per article at most. Fold emphasis back into the surrounding prose instead.
+- Target a Lexile range of 855L to 1165L (approximately 9th-grade reading level). Prefer common words over elevated vocabulary, but do not sacrifice precision.
 
 ## Economist Essay Structure
 5-phase structure, average 902 words, data in every article, no byline.
