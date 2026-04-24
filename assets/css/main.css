@@ -34,7 +34,7 @@ p {
 /* Post */
 
 .back-link {
-  position: fixed;
+  position: absolute;
   top: 1rem;
   left: 1rem;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
