@@ -35,8 +35,8 @@ p {
 
 .back-link {
   position: fixed;
-  top: 1.25rem;
-  left: calc(50% - 306px);
+  top: 1rem;
+  left: 1rem;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 0.8125rem;
   color: #888;
@@ -45,12 +45,6 @@ p {
 
 .back-link:hover {
   color: #0056b3;
-}
-
-@media (max-width: 660px) {
-  .back-link {
-    left: 1.5rem;
-  }
 }
 
 .hero-image {
