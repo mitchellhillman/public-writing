@@ -22,6 +22,15 @@
 - Never use the negative-positive pair construction (e.g. "it is not X, it is Y"). State the positive directly.
 - Use punchy short sentences for emphasis extremely sparingly — once or twice per article at most. Fold emphasis back into the surrounding prose instead.
 
+## Economist Essay Structure
+5-phase structure, average 902 words, data in every article, no byline.
+
+1. **Claim** — stark declarative sentence or data barrage, often the thesis itself. Reader knows the argument within 30 words. No extended hook, no scene-setting. ("Britain is ungoverned." / "THE WORLD is rearming fast.")
+2. **Pivot** — one adversative word flips the opening within the first 5 sentences. "Yet," "But," or "Still" introduces the core tension immediately. Concession is a clause, not a paragraph. ("Yet although the outlook for Democrats is good, for America's democracy it is alarming.")
+3. **Evidence** — precise data plus named individuals as typological cases. Statistics appear with exact figures and dates. Named real people illustrate structural arguments; they are cases, not authorities. ("European NATO members will spend an additional €300bn per year by end of decade.")
+4. **Prescription** — what should be done, 1–2 paragraphs, stays bounded to the specific question. Arguments do not escalate to civilisational stakes. A leader on Israel's military doctrine does not become a meditation on Western decline.
+5. **Kicker** — one ironic or judicial sentence, never a summary. Crystallises the argument into its sharpest form and stops. ("A superpower in rule-making, yet a supplicant in everything else that matters.")
+
 ## Biblical Quotations
 - Do not cite the passage reference in the prose. Attribution should be seamless, naming the speaker or author naturally: "David wrote...", "Paul says...", "Jesus tells her..."
 - The passage reference follows the quotation in parentheses, linked to the relevant chapter on BibleGateway.com using the NABRE version
