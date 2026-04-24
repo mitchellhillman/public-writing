@@ -9,7 +9,15 @@
       "Bash(gh api *)",
       "Bash(git commit *)",
       "Bash(git pull *)",
-      "Bash(git mv *)"
+      "Bash(git mv *)",
+      "Bash(dig writing.mitchellhillman.com CNAME +short)",
+      "Bash(dig writing.mitchellhillman.com A +short)",
+      "Read(//Users/mitchellhillman/Projects/mitchellhillman/**)",
+      "Read(//Users/mitchellhillman/**)",
+      "Bash(dig mitchellhillman.com CAA +short)",
+      "Bash(git checkout *)",
+      "Bash(cp -r /Users/mitchellhillman/Projects/public-writing/posts /Users/mitchellhillman/Projects/writings/)",
+      "Bash(cp -r /Users/mitchellhillman/Projects/public-writing/img /Users/mitchellhillman/Projects/writings/)"
     ]
   }
 }
