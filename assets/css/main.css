@@ -93,6 +93,37 @@ footer p {
   line-height: 1.5;
 }
 
+hr {
+  border: 0;
+  border-top: 1px solid #ddd;
+  margin: 2rem 0;
+}
+
+.references {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.8rem;
+  color: #888;
+  line-height: 1.8;
+  counter-reset: references;
+}
+
+.references p {
+  margin: 0.25rem 0;
+  counter-increment: references;
+  padding-left: 1.5em;
+  position: relative;
+}
+
+.references p::before {
+  content: counter(references) ".";
+  position: absolute;
+  left: 0;
+}
+
+.references a {
+  color: #888;
+}
+
 /* Index */
 
 ol {
