@@ -2,12 +2,12 @@
 layout: post
 title: "Agile Revolution?"
 byline: "Mitchell Hillman"
-standfirst: "Boredom from agile ceremonies does not amount to a good case for removing them."
+standfirst: "Boredom from Agile ceremonies does not amount to a good case for removing them."
 date: 2026-04-27
 image: /img/emperor.jpg
 ---
 
-The most productive meeting in my week is the refinement meeting. It is also, invariably, the worst part of my day. The hopes and dreams of software that might change people's lives get trampled by a parade of pedantic pageantry, replete with ritual and ceremony. "Hey! Will you vote?" calls the PMP or CSM. "I could go down to a 3," mutters the listless engineer. The yoke of office work never feels so heavy as during an agile planning session. But don't reach for your pitchfork yet.
+The most productive meeting in my week is the refinement meeting. It is also, invariably, the worst part of my day. The hopes and dreams of software that might change people's lives get trampled by a parade of pedantic pageantry, replete with ritual and ceremony. "Hey! Will you vote?" calls the PMP or CSM. "I could go down to a 3," mutters the listless engineer. The yoke of office work never feels so heavy as during an Agile planning session. But don't reach for your pitchfork yet.
 
 Many pundits on the internet declare Agile dead, killed by AI as all disruptions lately seem to be. Steve Jones, an executive vice president at Capgemini, argues that AI agents building software in hours have made the Manifesto's human-centric principles obsolete, with "agentic SDLCs simply too fast for Agile." Yet Forrester's 2025 research finds that 95% of professionals still affirm Agile's critical relevance, and 61% report using it for five or more years. Agile methodology is a common vocabulary that enables, however imperfectly, the collaboration that future success depends on. Rolf Läderach, an operational excellence coach, writes that "Agile is about creating adaptive and learning organisations that can respond to change and deliver outcomes. That need will never disappear. And AI supports this." The Agile Business Consortium goes further, finding that mature agility practices are a prerequisite for effective AI integration. Teams rushing to adopt AI on top of dysfunctional Agile foundations are simply powdering their wigs.
 
