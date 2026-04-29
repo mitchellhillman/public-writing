@@ -17,6 +17,7 @@
 - Never use colons (:)
 - Never use semicolons (;)
 - Use proper typographic quotation marks: "left" and "right" curly quotes, not straight quotes
+- Never use bold
 
 ## Phrasing
 - Never use the negative-positive pair construction (e.g. "it is not X, it is Y"). State the positive directly.

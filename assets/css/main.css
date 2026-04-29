@@ -1,34 +1,36 @@
 body {
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.0625rem;
+  font-size: clamp(0.875rem, 3.7vw, 1.75rem);
   line-height: 1.7;
-  color: #1a1a1a;
-  max-width: 660px;
+  color: #000;
+  max-width: 760px;
   margin: 4rem auto;
   padding: 0 1.5rem;
 }
 
 h1 {
-  font-family: "Inter", sans-serif;
-  font-size: 2rem;
-  font-weight: 700;
+  font-size: clamp(1.5rem, 6.8vw, 3.25rem);
+  font-weight: normal;
   line-height: 1.2;
   margin-bottom: 0.75rem;
   padding-bottom: 0.75rem;
-  border-bottom: 1px solid #ddd;
 }
 
 a {
-  color: #1a1a1a;
+  color: #000;
   text-decoration: underline;
 }
 
 a:hover {
-  color: #0056b3;
+  color: #000;
 }
 
 p {
   margin: 0 0 1.25rem;
+}
+
+strong, b {
+  font-weight: normal;
 }
 
 /* Post */
@@ -37,14 +39,12 @@ p {
   position: absolute;
   top: 1rem;
   left: 1rem;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  font-size: 0.8125rem;
-  color: #888;
+  font-family: "Inter", sans-serif;
   text-decoration: none;
 }
 
 .back-link:hover {
-  color: #0056b3;
+  color: #000;
 }
 
 .hero-image {
@@ -55,16 +55,15 @@ p {
 }
 
 .byline {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  font-size: 0.875rem;
-  color: #666;
+  font-family: "Inter", sans-serif;
+  font-size: clamp(0.75rem, 2.1vw, 1rem);
+  color: #000;
   margin: 0 0 1rem;
 }
 
 .standfirst {
-  font-size: 1.125rem;
   line-height: 1.5;
-  color: #333;
+  color: #000;
   font-style: italic;
   margin-bottom: 2.5rem;
 }
@@ -75,7 +74,7 @@ footer {
   gap: 1.25rem;
   margin-top: 3rem;
   padding-top: 1.5rem;
-  border-top: 1px solid #ddd;
+  border-top: 1px solid #000;
 }
 
 footer img {
@@ -86,23 +85,21 @@ footer img {
 }
 
 footer p {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  font-size: 0.875rem;
-  color: #444;
+  font-family: "Inter", sans-serif;
+  font-size: clamp(0.75rem, 2.1vw, 1rem);
+  color: #000;
   margin: 0;
   line-height: 1.5;
 }
 
 hr {
   border: 0;
-  border-top: 1px solid #ddd;
+  border-top: 1px solid #000;
   margin: 2rem 0;
 }
 
 .references {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  font-size: 0.8rem;
-  color: #888;
+  color: #000;
   line-height: 1.8;
   counter-reset: references;
 }
@@ -120,9 +117,6 @@ hr {
   left: 0;
 }
 
-.references a {
-  color: #888;
-}
 
 /* Index */
 
@@ -133,7 +127,6 @@ ol {
 }
 
 ol li {
-  border-bottom: 1px solid #eee;
   padding: 1.5rem 0;
 }
 
@@ -142,21 +135,18 @@ ol li:first-child {
 }
 
 .post-title a {
-  font-family: "Inter", sans-serif;
-  font-size: 1.25rem;
-  font-weight: 700;
-  color: #1a1a1a;
+  font-size: 1.6em;
   text-decoration: none;
 }
 
 .post-title a:hover {
-  color: #0056b3;
+  color: #000;
 }
 
 .post-meta {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  font-size: 0.8125rem;
-  color: #888;
+  font-family: "Inter", sans-serif;
+  font-size: clamp(0.75rem, 2.1vw, 1rem);
+  color: #000;
   margin: 0.25rem 0 0.5rem;
 }
 
@@ -178,8 +168,17 @@ ol li:first-child {
 }
 
 .post-standfirst {
-  font-size: 0.9375rem;
-  color: #444;
+  font-size: 0.85em;
+  color: #000;
   margin: 0;
-  font-style: italic;
+}
+
+@media (max-width: 600px) {
+  .index-item {
+    flex-direction: column;
+  }
+
+  .index-image {
+    width: 100%;
+  }
 }
