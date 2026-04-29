@@ -1,105 +1,105 @@
 ---
 layout: post
-title: "Bee Shaped Population"
+title: "Richer Than You Think"
 byline: "Mitchell Hillman"
 standfirst: "The middle class remains robust in the USA."
 date: 2026-04-29
-image: /img/frankfurt.jpg
+index_image: /img/income-chart-no-labels.jpg
 ---
 
-Comparison is the thief of joy, but an accurate picture of your financial neighborhood can be its own kind of consolation. Marketing and ambition conspire to distort perceptions of wealth, and what passes for normal bears little resemblance to the statistical median. The charts below draw on the most recent household financial data available. Unfortunately, 2022 is the most recent public data across these metrics.
+Comparison is the thief of joy, but an accurate picture of your financial neighborhood can be its own kind of consolation. Marketing and ambition conspire to distort perceptions of wealth, and what passes for normal bears little resemblance to the statistical median. The charts below draw on the most recent household financial data available. Income figures are from 2023 IRS data; net worth and retirement figures are from the 2022 Federal Reserve Survey of Consumer Finances.
 
 <div class="chart-block">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 770" width="690" height="770" style="font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif; background: #EBEBEB; display: block;">
 <g transform="translate(15,5)">
-<text x="0" y="26" font-size="14" font-weight="700" fill="#1A1A1A">Bee shaped population</text>
-<text x="0" y="44" font-size="10" font-weight="400" fill="#767676">161.3m returns filed  ·  IRS Statistics of Income, Table 1.1, 2022</text>
+<text x="0" y="26" font-size="14" font-weight="700" fill="#1A1A1A">Income Tax Returns by Adjusted Gross Income, 2023</text>
+<text x="0" y="44" font-size="10" font-weight="400" fill="#767676">160.6m returns filed  ·  IRS Statistics of Income, Table 1.1, 2023</text>
 <line x1="0" y1="70.0" x2="660" y2="70.0" stroke="#D4D4D4" stroke-width="0.75"/>
-<rect x="399.7" y="70.0" width="0.6" height="35.5" fill="#454545"/>
+<rect x="399.8" y="70.0" width="0.5" height="35.5" fill="#454545"/>
 <text x="0" y="92.3" font-size="10.5" fill="#1A1A1A">Over $10m</text>
-<text x="405.3" y="92.3" font-size="9" fill="#767676">35k</text>
+<text x="405.2" y="92.3" font-size="9" fill="#767676">30k</text>
 <line x1="0" y1="105.5" x2="660" y2="105.5" stroke="#D4D4D4" stroke-width="0.75"/>
-<rect x="399.5" y="105.5" width="0.9" height="35.5" fill="#454545"/>
+<rect x="399.6" y="105.5" width="0.8" height="35.5" fill="#454545"/>
 <text x="0" y="127.8" font-size="10.5" fill="#1A1A1A">$5–10m</text>
-<text x="405.5" y="127.8" font-size="9" fill="#767676">53k</text>
+<text x="405.4" y="127.8" font-size="9" fill="#767676">49k</text>
 <line x1="0" y1="140.9" x2="660" y2="140.9" stroke="#D4D4D4" stroke-width="0.75"/>
-<rect x="398.2" y="140.9" width="3.6" height="35.5" fill="#454545"/>
+<rect x="398.4" y="140.9" width="3.3" height="35.5" fill="#454545"/>
 <text x="0" y="163.3" font-size="10.5" fill="#1A1A1A">$2–5m</text>
-<text x="406.8" y="163.3" font-size="9" fill="#767676">208k</text>
+<text x="406.6" y="163.3" font-size="9" fill="#767676">203k</text>
 <line x1="0" y1="176.4" x2="660" y2="176.4" stroke="#D4D4D4" stroke-width="0.75"/>
-<rect x="398.7" y="176.4" width="2.6" height="35.5" fill="#454545"/>
+<rect x="398.8" y="176.4" width="2.4" height="35.5" fill="#454545"/>
 <text x="0" y="198.8" font-size="10.5" fill="#1A1A1A">$1.5–2m</text>
-<text x="406.3" y="198.8" font-size="9" fill="#767676">148k</text>
+<text x="406.2" y="198.8" font-size="9" fill="#767676">147k</text>
 <line x1="0" y1="211.9" x2="660" y2="211.9" stroke="#D4D4D4" stroke-width="0.75"/>
-<rect x="396.9" y="211.9" width="6.2" height="35.5" fill="#454545"/>
+<rect x="397.0" y="211.9" width="6.0" height="35.5" fill="#454545"/>
 <text x="0" y="234.2" font-size="10.5" fill="#1A1A1A">$1–1.5m</text>
-<text x="408.1" y="234.2" font-size="9" fill="#767676">361k</text>
+<text x="408.0" y="234.2" font-size="9" fill="#767676">369k</text>
 <line x1="0" y1="247.4" x2="660" y2="247.4" stroke="#D4D4D4" stroke-width="0.75"/>
-<rect x="385.5" y="247.4" width="29.0" height="35.5" fill="#454545"/>
+<rect x="385.6" y="247.4" width="28.9" height="35.5" fill="#454545"/>
 <text x="0" y="269.7" font-size="10.5" fill="#1A1A1A">$500k–1m</text>
-<text x="419.5" y="269.7" font-size="9" fill="#767676">1.7m</text>
+<text x="419.4" y="269.7" font-size="9" fill="#767676">1.8m</text>
 <line x1="0" y1="282.8" x2="660" y2="282.8" stroke="#D4D4D4" stroke-width="0.75"/>
-<rect x="313.3" y="282.8" width="173.4" height="35.5" fill="#454545"/>
+<rect x="311.1" y="282.8" width="177.8" height="35.5" fill="#454545"/>
 <text x="0" y="305.2" font-size="10.5" fill="#1A1A1A">$200–500k</text>
-<text x="491.7" y="305.2" font-size="9" fill="#767676">10.0m</text>
+<text x="493.9" y="305.2" font-size="9" fill="#767676">11.0m</text>
 <line x1="0" y1="318.3" x2="660" y2="318.3" stroke="#D4D4D4" stroke-width="0.75"/>
 <rect x="176.0" y="318.3" width="448.0" height="35.5" fill="#E4493A"/>
 <text x="0" y="340.7" font-size="10.5" fill="#1A1A1A">$100–200k</text>
-<text x="629.0" y="340.7" font-size="9" fill="#767676">25.9m</text>
+<text x="629.0" y="340.7" font-size="9" fill="#767676">27.6m</text>
 <text x="400" y="336.1" font-size="9" dominant-baseline="middle" text-anchor="middle" fill="#EBEBEB" font-style="italic">majority</text>
 <line x1="0" y1="353.8" x2="660" y2="353.8" stroke="#D4D4D4" stroke-width="0.75"/>
-<rect x="268.6" y="353.8" width="262.7" height="35.5" fill="#454545"/>
+<rect x="272.0" y="353.8" width="256.0" height="35.5" fill="#454545"/>
 <text x="0" y="376.1" font-size="10.5" fill="#1A1A1A">$75–100k</text>
-<text x="536.4" y="376.1" font-size="9" fill="#767676">15.2m</text>
+<text x="533.0" y="376.1" font-size="9" fill="#767676">15.8m</text>
 <line x1="0" y1="389.3" x2="660" y2="389.3" stroke="#D4D4D4" stroke-width="0.75"/>
-<rect x="194.0" y="389.3" width="412.0" height="35.5" fill="#454545"/>
+<rect x="204.1" y="389.3" width="391.7" height="35.5" fill="#888888"/>
 <text x="0" y="411.6" font-size="10.5" fill="#1A1A1A">$50–75k</text>
-<text x="611.0" y="411.6" font-size="9" fill="#767676">23.8m</text>
+<text x="600.9" y="411.6" font-size="9" fill="#767676">24.1m</text>
+<text x="400" y="407.0" font-size="9" dominant-baseline="middle" text-anchor="middle" fill="#EBEBEB" font-style="italic">median</text>
 <line x1="0" y1="424.7" x2="660" y2="424.7" stroke="#D4D4D4" stroke-width="0.75"/>
-<rect x="285.3" y="424.7" width="229.4" height="35.5" fill="#888888"/>
+<rect x="290.3" y="424.7" width="219.4" height="35.5" fill="#454545"/>
 <text x="0" y="447.1" font-size="10.5" fill="#1A1A1A">$40–50k</text>
-<text x="519.7" y="447.1" font-size="9" fill="#767676">13.3m</text>
-<text x="400" y="442.5" font-size="9" dominant-baseline="middle" text-anchor="middle" fill="#EBEBEB" font-style="italic">median</text>
+<text x="514.7" y="447.1" font-size="9" fill="#767676">13.5m</text>
 <line x1="0" y1="460.2" x2="660" y2="460.2" stroke="#D4D4D4" stroke-width="0.75"/>
-<rect x="263.5" y="460.2" width="272.9" height="35.5" fill="#454545"/>
+<rect x="276.6" y="460.2" width="246.9" height="35.5" fill="#454545"/>
 <text x="0" y="482.6" font-size="10.5" fill="#1A1A1A">$30–40k</text>
-<text x="541.5" y="482.6" font-size="9" fill="#767676">15.8m</text>
+<text x="528.4" y="482.6" font-size="9" fill="#767676">15.2m</text>
 <line x1="0" y1="495.7" x2="660" y2="495.7" stroke="#D4D4D4" stroke-width="0.75"/>
-<rect x="330.7" y="495.7" width="138.5" height="35.5" fill="#454545"/>
+<rect x="338.4" y="495.7" width="123.3" height="35.5" fill="#454545"/>
 <text x="0" y="518.0" font-size="10.5" fill="#1A1A1A">$25–30k</text>
-<text x="474.3" y="518.0" font-size="9" fill="#767676">8.0m</text>
+<text x="466.6" y="518.0" font-size="9" fill="#767676">7.6m</text>
 <line x1="0" y1="531.2" x2="660" y2="531.2" stroke="#D4D4D4" stroke-width="0.75"/>
-<rect x="330.5" y="531.2" width="139.1" height="35.5" fill="#454545"/>
+<rect x="335.7" y="531.2" width="128.6" height="35.5" fill="#454545"/>
 <text x="0" y="553.5" font-size="10.5" fill="#1A1A1A">$20–25k</text>
-<text x="474.5" y="553.5" font-size="9" fill="#767676">8.0m</text>
+<text x="469.3" y="553.5" font-size="9" fill="#767676">7.9m</text>
 <line x1="0" y1="566.6" x2="660" y2="566.6" stroke="#D4D4D4" stroke-width="0.75"/>
-<rect x="321.6" y="566.6" width="156.8" height="35.5" fill="#454545"/>
+<rect x="329.4" y="566.6" width="141.2" height="35.5" fill="#454545"/>
 <text x="0" y="589.0" font-size="10.5" fill="#1A1A1A">$15–20k</text>
-<text x="483.4" y="589.0" font-size="9" fill="#767676">9.1m</text>
+<text x="475.6" y="589.0" font-size="9" fill="#767676">8.7m</text>
 <line x1="0" y1="602.1" x2="660" y2="602.1" stroke="#D4D4D4" stroke-width="0.75"/>
-<rect x="316.6" y="602.1" width="166.9" height="35.5" fill="#454545"/>
+<rect x="327.1" y="602.1" width="145.8" height="35.5" fill="#454545"/>
 <text x="0" y="624.5" font-size="10.5" fill="#1A1A1A">$10–15k</text>
-<text x="488.4" y="624.5" font-size="9" fill="#767676">9.6m</text>
+<text x="477.9" y="624.5" font-size="9" fill="#767676">9.0m</text>
 <line x1="0" y1="637.6" x2="660" y2="637.6" stroke="#D4D4D4" stroke-width="0.75"/>
-<rect x="324.3" y="637.6" width="151.4" height="35.5" fill="#454545"/>
+<rect x="334.4" y="637.6" width="131.1" height="35.5" fill="#454545"/>
 <text x="0" y="659.9" font-size="10.5" fill="#1A1A1A">$5–10k</text>
-<text x="480.7" y="659.9" font-size="9" fill="#767676">8.7m</text>
+<text x="470.6" y="659.9" font-size="9" fill="#767676">8.1m</text>
 <line x1="0" y1="673.1" x2="660" y2="673.1" stroke="#D4D4D4" stroke-width="0.75"/>
-<rect x="329.1" y="673.1" width="141.8" height="35.5" fill="#454545"/>
+<rect x="340.3" y="673.1" width="119.4" height="35.5" fill="#454545"/>
 <text x="0" y="695.4" font-size="10.5" fill="#1A1A1A">Under $5k</text>
-<text x="475.9" y="695.4" font-size="9" fill="#767676">8.2m</text>
+<text x="464.7" y="695.4" font-size="9" fill="#767676">7.4m</text>
 <line x1="0" y1="708.5" x2="660" y2="708.5" stroke="#D4D4D4" stroke-width="0.75"/>
-<rect x="371.8" y="708.5" width="56.3" height="35.5" fill="#454545"/>
+<rect x="382.3" y="708.5" width="35.4" height="35.5" fill="#454545"/>
 <text x="0" y="730.9" font-size="10.5" fill="#1A1A1A">No income</text>
-<text x="433.2" y="730.9" font-size="9" fill="#767676">3.3m</text>
+<text x="422.7" y="730.9" font-size="9" fill="#767676">2.2m</text>
 <line x1="0" y1="744.0" x2="660" y2="744.0" stroke="#D4D4D4" stroke-width="0.75"/>
 </g>
 </svg>
 
-<p class="chart-source"><a href="https://www.irs.gov/statistics/soi-tax-stats-individual-statistical-tables-by-size-of-adjusted-gross-income">IRS Statistics of Income, Individual Income Tax Returns, Table 1.1 (Tax Year 2022)</a></p>
+<p class="chart-source"><a href="https://www.irs.gov/statistics/soi-tax-stats-individual-statistical-tables-by-size-of-adjusted-gross-income">IRS Statistics of Income, Individual Income Tax Returns, Table 1.1 (Tax Year 2023)</a></p>
 </div>
 
-Rather than a pyramid with a mass of poverty at the base, the actual income distribution looks more like a bee. Households reporting more than $1m in adjusted gross income make up only 0.50% of all filers. The median filer falls in the $40–50k bracket, shown in grey above.
+Rather than a pyramid with a mass of poverty at the base, the actual income distribution looks more like a bee. Households reporting more than $1m in adjusted gross income make up only 0.50% of all filers. The median filer falls in the $50–75k bracket, shown in grey above.
 
 <div class="chart-block">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 590" width="690" height="590" style="font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif; background: #EBEBEB; display: block;">
@@ -221,21 +221,21 @@ Retirement savings scale smoothly, which reflects that most accounts are set on 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 352" width="690" height="352" style="font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif; background: #EBEBEB; display: block;">
 <g transform="translate(15,5)">
 <text x="0" y="26" font-size="14" font-weight="700" fill="#1A1A1A">Working-Age Adults vs. Income Tax Coverage, 2022–23</text>
-<text x="0" y="44" font-size="10" font-weight="400" fill="#767676">Ages 18–74  ·  Adjusted for married couples filing jointly  ·  Census ACS 2023; IRS SOI 2022</text>
-<path d="M200.0,70.0 A120,120 0 1 1 136.9,87.9 L170.6,142.4 A56,56 0 1 0 200.0,134.0 Z" fill="#454545"/>
-<path d="M136.9,87.9 A120,120 0 0 1 200.0,70.0 L200.0,134.0 A56,56 0 0 0 170.6,142.4 Z" fill="#E4493A"/>
+<text x="0" y="44" font-size="10" font-weight="400" fill="#767676">Ages 18–74  ·  Adjusted for married couples filing jointly  ·  Census ACS 2023; IRS SOI 2023</text>
+<path d="M200.0,70.0 A120,120 0 1 1 134.9,89.2 L169.6,142.9 A56,56 0 1 0 200.0,134.0 Z" fill="#454545"/>
+<path d="M134.9,89.2 A120,120 0 0 1 200.0,70.0 L200.0,134.0 A56,56 0 0 0 169.6,142.9 Z" fill="#E4493A"/>
 <text x="200" y="184" font-size="11" text-anchor="middle" font-weight="700" fill="#1A1A1A">238m</text>
 <text x="200" y="200" font-size="9" text-anchor="middle" fill="#767676">adults 18–74</text>
 <rect x="348" y="166" width="13" height="13" fill="#454545"/>
 <text x="367" y="177" font-size="10.5" fill="#1A1A1A">Filed a return (incl. joint)</text>
-<text x="367" y="193" font-size="12" font-weight="700" fill="#1A1A1A">216.8m (91%)</text>
+<text x="367" y="193" font-size="12" font-weight="700" fill="#1A1A1A">216.1m (91%)</text>
 <rect x="348" y="214" width="13" height="13" fill="#E4493A"/>
 <text x="367" y="225" font-size="10.5" fill="#1A1A1A">Estimated non-filers</text>
-<text x="367" y="241" font-size="12" font-weight="700" fill="#1A1A1A">20.9m (9%)</text>
+<text x="367" y="241" font-size="12" font-weight="700" fill="#1A1A1A">21.7m (9%)</text>
 </g>
 </svg>
 
 <p class="chart-source"><a href="https://data.census.gov/table/ACSDT1Y2023.B01001">Census Bureau ACS 1-Year Estimates 2023 (Table B01001)</a> · <a href="https://www.irs.gov/statistics/soi-tax-stats-individual-statistical-tables-by-size-of-adjusted-gross-income">IRS Statistics of Income 2022</a></p>
 </div>
 
-The share of working-age adults not filing a return sits at approximately 8.8%. The officially published unemployment rate is 4.3% as of March 2026, which counts only those actively seeking work. The gap reflects retirement, caregiving, disability, and other exits from the labor force.
+The share of working-age adults not filing a return sits at approximately 9.1%. The officially published unemployment rate is 4.3% as of March 2026, which counts only those actively seeking work. The gap reflects retirement, caregiving, disability, and other exits from the labor force.
