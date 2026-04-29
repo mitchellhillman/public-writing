@@ -182,3 +182,27 @@ ol li:first-child {
     width: 100%;
   }
 }
+
+/* Charts */
+
+.chart-block {
+  margin-bottom: 2.5rem;
+}
+
+.chart-block svg {
+  max-width: 660px;
+  width: 100%;
+  height: auto;
+}
+
+.chart-source {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.8125rem;
+  color: #888;
+  text-indent: 0;
+  margin: 0.4rem 0 0 0;
+}
+
+.chart-source a {
+  color: #888;
+}
