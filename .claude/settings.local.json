@@ -18,7 +18,8 @@
       "Bash(git checkout *)",
       "Bash(cp -r /Users/mitchellhillman/Projects/public-writing/posts /Users/mitchellhillman/Projects/writings/)",
       "Bash(cp -r /Users/mitchellhillman/Projects/public-writing/img /Users/mitchellhillman/Projects/writings/)",
-      "Bash(xargs ls *)"
+      "Bash(xargs ls *)",
+      "Bash(git *)"
     ]
   }
 }
